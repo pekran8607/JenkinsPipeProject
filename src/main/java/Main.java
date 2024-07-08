@@ -7,6 +7,6 @@ public class Main {
         //test 2
         //test 3
         //test 4 hello
-        System.out.println("Hello World! blabla asad sjhjh  sdsdsdswewed");
+        System.out.println("Hello Wosdsrld! blabla asad sjhjh  sdsdsdswewed");
     }
 }
